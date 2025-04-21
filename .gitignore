@@ -1,2 +1,3 @@
 cmd/sample*
 .DS_Store
+config.json
